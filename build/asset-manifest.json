@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6abd17d.css",
+    "main.js": "/static/js/main.faf15705.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IMG_20181125_015823.jpg": "/static/media/IMG_20181125_015823.ab2d644cbd5a7cf94fbb.jpg",
+    "static/media/Jogendra.pdf": "/static/media/Jogendra.0129ece9d255a666c45c.pdf",
+    "static/media/Photo.jpg": "/static/media/Photo.544ac4a3d1fc38f7c880.jpg",
+    "index.html": "/index.html",
+    "main.b6abd17d.css.map": "/static/css/main.b6abd17d.css.map",
+    "main.faf15705.js.map": "/static/js/main.faf15705.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6abd17d.css",
+    "static/js/main.faf15705.js"
+  ]
+}
